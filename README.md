@@ -1,6 +1,8 @@
 # Domain Name Of The Server, Which Displays “Hello World”
 [TASK-2_CLICK-HERE](https://ritikvirus.xyz)
 
+> I have purchased ritikvirus.xyz domain name from GoDaddy and installed an SSL certificate using Certbot. I have created a Dockerfile with your Hello World code written in PHP and run it in a Docker container with port number 8080.
+
 # Docker hub link
 [Docker-Repo](https://hub.docker.com/repository/docker/ritikvirus/task2/general)
 
