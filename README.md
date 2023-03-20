@@ -1,4 +1,4 @@
-# IP address/hostname of the server, which displays “hello world”
+# Domain Name Of The Server, Which Displays “Hello World”
 [TASK-2_CLICK-HERE](https://ritikvirus.xyz)
 
 # Docker hub link
